@@ -1,0 +1,4 @@
+{
+    "command": "dotnet test",
+    "working_directory": "/home/kavia/workspace/code-generation/medical-imaging-view-generator-1560-1569/medical_imaging_backend"
+}
